@@ -4,15 +4,10 @@
 Ratnabali Pal
 
 ### Abstract
-In this study, we explore the potential of pre-trained deep learning models, proposing a new approach that
-emphasizes their reusability and adaptability. Our framework, termed “customizable” deep learning,
-facilities users to seamlessly integrate diverse pre-trained models for addressing new tasks and enhancing
-existing solutions. Furthermore, we introduce a “programmable” adapter that enables the flexible
-combination of different pre-trained modules, expanding the range of applications and customization
-options. Through empirical experiments, particularly focusing on Visual Question Answering (VQA) for
-visually impaired (VI) individuals, we demonstrate the practical effectiveness of our methodology. These
-contributions advance the deep learning field while promoting customization and re-usability across
-various domains and tasks. The code is available https://github.com/Ratnabali-Pal/CPDA-VQA.
+Experiments on the VizWiz and EX-VizWiz datasets demonstrate the superiority of the proposed zero-shot method. 
+Published Papers on this VizWiz and Ex-VizWiz 
+1. 4.	Pal, Ratnabali, Samarjit Kar, and Dilip K. Prasad. "A Self-Supervised Generative Fine-Tune of CLIP for VQA for Visually Impaired." 2024 IEEE 21st India Council International Conference (INDICON). IEEE, 2024.
+      
 
 ### License
 
