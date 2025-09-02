@@ -11,7 +11,7 @@ Published Papers on this VizWiz and Ex-VizWiz
 
 ### License
 
-Copyright © 2021 Ratnabali Pal
+Copyright © 2024 Ratnabali Pal
 
 The content of this repository is bound by the following licenses:
 
